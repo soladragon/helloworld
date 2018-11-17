@@ -1,0 +1,1 @@
+alert("This is my example of a javascript alert");
